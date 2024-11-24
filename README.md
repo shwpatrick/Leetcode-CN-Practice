@@ -2,6 +2,13 @@
 主要順序按照代碼隨想錄進行練習  
 [代碼隨想錄](https://github.com/youngyangyang04/leetcode-master?tab=readme-ov-file)
 
+# 補記
+
+2024/11/24 發現：
+  kama網運行提交時
+  工信部要求，互联网上网发帖或者评论，必须实名认证（即绑定手机号）
+  沒有大陸手機的我kama沒辦法刷了，之後會跳過自測
+
 # 順序
 
 ## 數組
